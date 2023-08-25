@@ -18,9 +18,12 @@ The project is using to change not regular data to regular data.
 
 ## Contributors
 
-<a href="https://github.com/tandy1229/AI_work/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=tandy1229/AI_work" />
-</a>
+<!-- <a href="https://github.com/tandy1229/AI_work/graphs/contributors"> -->
+<!--   <img src="https://contrib.rocks/image?repo=tandy1229/AI_work" /> -->
+<!-- </a> -->
+
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
 
 <!-- readme: contributors -start -->
 <table>
@@ -41,6 +44,9 @@ The project is using to change not regular data to regular data.
     </td></tr>
 </table>
 <!-- readme: contributors -end -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
 
 ## License
 
