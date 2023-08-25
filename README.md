@@ -22,6 +22,9 @@ The project is using to change not regular data to regular data.
   <img src="https://contrib.rocks/image?repo=tandy1229/AI_work" />
 </a>
 
+<!-- readme: contributors -start -->
+<!-- readme: contributors -end -->
+
 ## License
 
 MIT
