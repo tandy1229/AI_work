@@ -16,6 +16,10 @@ The project is using to change not regular data to regular data.
 
 > Use for AI training.
 
+> **Note**
+>
+> This project is WIP.
+
 ## Contributors
 
 <!-- <a href="https://github.com/tandy1229/AI_work/graphs/contributors"> -->
